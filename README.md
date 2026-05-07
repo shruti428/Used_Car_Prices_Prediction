@@ -149,7 +149,7 @@ Vehicle model, manufacturer, and condition are the most influential factors affe
 # Repository Contents
 
 ```text
-├── Used_Car_Price_Analysis.ipynb     # Jupyter notebook with full analysis
+├── used_car_prices_prediction.ipynb     # Jupyter notebook with full analysis
 ├── data/
 │   └── vehicles.csv.zip                  # Raw dataset
 └── README.md                         # Project overview
